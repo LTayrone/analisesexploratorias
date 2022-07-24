@@ -2,18 +2,44 @@
 
 ![image](https://user-images.githubusercontent.com/44592209/167043419-7edf515f-276e-44cc-83fe-4991602a0381.png)
 
+# Data Science e Data Analytics
+Esse projeto faz parte da minha jornada para me tornar um Data Analyst ou Data Scientist.
+Serão abordados problemas de analise e modelagem de dados, utilização de técnicas de otimização combinatória e modelos de aprendizado de maquina. 
 
-## Introdução
+#### -- Project Status: [ On-Hold ]
 
-### Análista de Dados e Cientista de Dados em formação
-### Background in: Python | SQL | Power BI | Excel .
+## Project Intro/Objective
+O objetivo desse projeto é compartilhar minhas conquistas e dificuldades com a comunidade, com foco especial nas pessoas que estão iniciando nesse mundo de analise de dados.  Com os modelos desenvolvidos, espera-se contribuir com a sociedade disponibilizando modelos que podem facilmente ser aplicados a problemas econômicos e ou sociais. 
 
-Engenheiro de Produção, com pós graduação em Business Intelligence, Engenharia de Segurança, Gestão Operacional e cursando uma especialização em Pesquisa Operacional e Tomada de Decisão, sou apaixonado pelo mundo dos dados e fã da cultura oriental japonesa que por coincidência é mãe da minha formação. Tive atuação em várias empresas de grande porte, tais como Vallourec, Grupo ARG , Drogaria Araujo e fui Analista de Gestão e BI na centenária AngloGold Ashanti. Atualmente sou Consultor Sênior na EY (Ernst Young) ocupando posição no ranking mundial nas principais empresas de auditoria e consultoria.
+### About me
 
-Estudo constantemente a área de ciência de dados, atualmente com foco em análise e tratamento de dados, possuo também experiencia no desenvolvimento de modelagem matemática e heurísticas e meta-heurísticas em Python. Tenho solida formação nos principais conceitos de Estatística, liderando projeto Six Sigma com minha formação como especialista Green Belt.
+* Lucas Tayrone M
+* 26 anos
+* Mestrando em modelagem matemática e computacional, cursando MBA em Pesquisa Operacional e Tomada de Decisão, especialização em BI, Gestão Operacional e Engenharia de Segurança do Trabalho.
+* Atualmente Consultor Sênior na área de Supply Chain and Operations
 
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Business Intelligence
+* Descriptive models
+* etc.
 
-[<img alt="alt_text" width="40px" src="https://aux.iconspalace.com/uploads/linkedin-flat-icon-256.png" />](https://www.linkedin.com/in/lucastayrone-data-analyst/)
+### Technologies
+* R 
+* Python
+* Power BI ( DAX, M language)
+* SQL
+* etc. 
 
+## Project Description
 
+Em construção!
 
+## Contact
+* Para entrar em contato comigo, você pode acessar o meu [LinkedIn](https://www.linkedin.com/in/lucastayrone-data-analyst/). 
+
+## License
+
+MIT
